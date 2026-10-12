@@ -1,0 +1,3 @@
+well identifier	formation	observation number	 pick depth	depth reference	source	log_file	depth_reference_verified	Notes	
+NO 15/9-19 BT2         	  Hugin Fm. VOLVE Top                      	1	4035.8	MD	Well_picks_Volve_v1.dat	15_9-19_BT2_CPI.las	No	MD assumed; verify against source metadata and LAS depth convention	
+NO 15/9-19 BT2         	Hugin Fm. VOLVE Base  	1	4178.59	MD	Well_picks_Volve_v1.dat	15_9-19_BT2_CPI.las	No	MD assumed; verify against source metadata and LAS depth convention	
